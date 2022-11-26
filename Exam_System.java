@@ -4,9 +4,11 @@ public class Exam_System {
 Scanner sc = new Scanner(System.in);
 HashMap<String,Integer> data = new HashMap<String,Integer>();
 
+
 	public void login() {
-		data.put("SHUBHAM",2157);
-		data.put("SHUBHAM",7512);
+		
+  
+        data.put("TANMAY",2908);
 		System.out.println("\n\n**********WELCOME TO ONLINE EXAM SYSTEM*****************");
 		String UserId;
 		int password;
